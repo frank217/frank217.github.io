@@ -19,12 +19,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Frank                          # the main title
+title: 내일의 고민                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Frank's Blogging Website
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Blogging website for Frank Dang Jun We. Concerns about tomorrow.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://frank217.github.io'
@@ -38,12 +38,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com             # change to your email address
+  name: Dang Jun We
+  email: djwe1992@gmail.com
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    #- https://twitter.com/username      # change to your twitter homepage
+    - https://frank217.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
