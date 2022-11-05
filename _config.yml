@@ -13,9 +13,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Frank2                          # the main title
+title: Frank
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Frank's Blogging website   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
 url: 'https://frank217.github.io'
@@ -65,7 +65,7 @@ theme_mode:   # [light|dark]
 # e.g. 'https://cdn.com'
 img_cdn:
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/cover.jpg
 # boolean type, the global switch for ToC in posts.
 toc: true
 comments:
