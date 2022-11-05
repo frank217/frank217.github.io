@@ -15,7 +15,7 @@ timezone:
 
 title: Frank
 
-tagline: Frank's Blogging website   # it will display as the sub-title
+tagline: Frank's Blogging Website   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
 url: 'https://frank217.github.io'
