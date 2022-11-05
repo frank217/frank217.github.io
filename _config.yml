@@ -18,7 +18,7 @@ title: Frank                          # the main title
 
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
-@@ -30,7 +30,7 @@ description: >-                        # used by seo meta and the atom feed
+description: >-                        # used by seo meta and the atom feed
 url: 'https://frank217.github.io'
 
 github:
